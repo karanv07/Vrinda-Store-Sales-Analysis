@@ -9,7 +9,7 @@ The dashboard provides insights into sales trends, customer behavior, state-wise
 
 # 📌 KPIs
 
-![KPIs](images/kpis.png)
+![KPIs](images/KPIs.png)
 
 - Total Sales: 21.18M
 - Total Orders: 31,047
