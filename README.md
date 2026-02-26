@@ -59,7 +59,7 @@ Includes:
 
 # 📂 Download Full Excel File
 
-[Click here to download full Excel project](Vrinda_Store_sales_Analysis.xlsx)
+[Click here to download full Excel project](vrinda_store_sales_analysis.xlsx)
 
 ---
 
