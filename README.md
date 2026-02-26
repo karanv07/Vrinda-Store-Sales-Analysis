@@ -20,7 +20,7 @@ The dashboard provides insights into sales trends, customer behavior, state-wise
 
 # 📊 Dashboard
 
-![Dashboard](images/dashboard.png)
+![Dashboard](images/Dashboard.png)
 
 ### Key Highlights:
 - Women contribute ~69% of total orders
@@ -33,7 +33,7 @@ The dashboard provides insights into sales trends, customer behavior, state-wise
 
 # 📈 Pivot Tables
 
-![Pivot Tables](images/pivots.png)
+![Pivot Tables](images/Pivots.png)
 
 Includes:
 - Sales vs Orders by Month
@@ -47,7 +47,7 @@ Includes:
 
 # 💡 Business Insights
 
-![Insights](images/insights.png)
+![Insights](images/Insights.png)
 
 ### Recommendations:
 - Target Women aged 30–49
@@ -59,7 +59,7 @@ Includes:
 
 # 📂 Download Full Excel File
 
-[Click here to download full Excel project](vrinda_store_sales_analysis.xlsx)
+[Click here to download full Excel project](Vrinda_Store_sales_Analysis.xlsx)
 
 ---
 
